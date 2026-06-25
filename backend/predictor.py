@@ -14,7 +14,7 @@ model_path = os.path.join(MODEL_DIR, "model.pkl")
 encoders_path = os.path.join(MODEL_DIR, "encoders.pkl")
 features_path = os.path.join(MODEL_DIR, "features.pkl")
 
-BASE_DIR = os.path.dirname(os.path.dirname(__file__))
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 
 _model = None
