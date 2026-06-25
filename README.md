@@ -44,7 +44,6 @@ The project demonstrates the integration of **Machine Learning, FastAPI, React, 
 - 📜 Prediction History
 - 📄 Downloadable PDF Health Reports
 - 🔐 Google OAuth Authentication
-- 👨‍💼 Role-Based Admin Dashboard
 - 🌙 Dark & Light Mode
 - 📱 Fully Responsive Design
 
@@ -56,43 +55,49 @@ The project demonstrates the integration of **Machine Learning, FastAPI, React, 
 
 ## 🏠 Landing Page
 
-<!-- Add Landing Page Screenshot Here -->
+<p align="center">
+<img src="screenshots/LandingPage.png" width="100%">
+</p>
 
 ---
 
 ## 📊 Dashboard
 
-<!-- Add Dashboard Screenshot Here -->
+<p align="center">
+<img src="screenshots/Dashboard.png" width="100%">
+</p>
 
 ---
 
 ## 🧠 Disease Prediction
 
-<!-- Add Prediction Screenshot Here -->
+<p align="center">
+<img src="screenshots/Disease.png" width="100%">
+</p>
 
 ---
 
 ## 📈 Analytics Dashboard
 
-<!-- Add Analytics Screenshot Here -->
+<p align="center">
+<img src="screenshots/Analytics.png" width="100%">
+</p>
 
 ---
 
 ## 📜 Prediction History
 
-<!-- Add History Screenshot Here -->
-
----
-
-## 👨‍💼 Admin Dashboard
-
-<!-- Add Admin Dashboard Screenshot Here -->
+<p align="center">
+<img src="screenshots/History.png" width="100%">
+</p>
 
 ---
 
 ## 📄 PDF Health Report
 
-<!-- Add PDF Report Screenshot Here -->
+<p align="center">
+<img src="screenshots/Report.png" width="100%">
+</p>
 
 ---
 
@@ -231,7 +236,6 @@ npm run dev
 - Health Analytics
 - Downloadable PDF Reports
 - Google Authentication
-- Admin Dashboard
 
 ---
 
