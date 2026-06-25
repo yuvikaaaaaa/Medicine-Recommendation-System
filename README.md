@@ -56,7 +56,7 @@ The project demonstrates the integration of **Machine Learning, FastAPI, React, 
 ## 🏠 Landing Page
 
 <p align="center">
-<img src="screenshots/LandingPage.png" width="100%">
+<img src="Screenshots/LandingPage.png" width="100%">
 </p>
 
 ---
@@ -64,7 +64,7 @@ The project demonstrates the integration of **Machine Learning, FastAPI, React, 
 ## 📊 Dashboard
 
 <p align="center">
-<img src="screenshots/Dashboard.png" width="100%">
+<img src="Screenshots/Dashboard.png" width="100%">
 </p>
 
 ---
@@ -72,7 +72,7 @@ The project demonstrates the integration of **Machine Learning, FastAPI, React, 
 ## 🧠 Disease Prediction
 
 <p align="center">
-<img src="screenshots/Disease.png" width="100%">
+<img src="Screenshots/Disease.png" width="100%">
 </p>
 
 ---
@@ -80,7 +80,7 @@ The project demonstrates the integration of **Machine Learning, FastAPI, React, 
 ## 📈 Analytics Dashboard
 
 <p align="center">
-<img src="screenshots/Analytics.png" width="100%">
+<img src="Screenshots/Analytics.png" width="100%">
 </p>
 
 ---
@@ -88,7 +88,7 @@ The project demonstrates the integration of **Machine Learning, FastAPI, React, 
 ## 📜 Prediction History
 
 <p align="center">
-<img src="screenshots/History.png" width="100%">
+<img src="Screenshots/History.png" width="100%">
 </p>
 
 ---
@@ -96,7 +96,7 @@ The project demonstrates the integration of **Machine Learning, FastAPI, React, 
 ## 📄 PDF Health Report
 
 <p align="center">
-<img src="screenshots/Report.png" width="100%">
+<img src="Screenshots/Report.png" width="100%">
 </p>
 
 ---
@@ -180,7 +180,7 @@ CuraAI
 ├── backend/
 ├── frontend/
 ├── data/
-├── screenshots/
+├── Screenshots/
 ├── README.md
 ├── LICENSE
 └── .gitignore
